@@ -2,7 +2,7 @@
 - 👩🏻‍💻 I'm currently learning everything about web development
 - 👀 Would love to collaborate with creators
 - 🌟 2020 & 2021 Goals: Get on board as a Full Stack Developer  
-- 🧚 Fun fact: I love to travel and practice yoga
+- 🧚 I enjoy going for a hike in the nature, reading a good book, or watching a good movie.
 
 ### Languages and Tools: 
 
