@@ -3,6 +3,7 @@
 ## Hi There! 👋🏼
 
 <img align="right" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif" width="300px">
+
 -  💬  My name is Mengmei Tu, goes by <b>Mei</b>, pronounced like the month May
 - 👩🏻‍💻  I'm currently learning everything about web development
 - 👀  Would love to collaborate with creators
@@ -10,8 +11,6 @@
 - 🧚  I enjoy going for a hike in the nature, reading a good book, or watching a good movie.
 
 
-<br>
-<br>
 
 ### Languages and Tools:
 
