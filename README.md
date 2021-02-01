@@ -1,6 +1,8 @@
+<img src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif" width="80%">
+
 ## Hi There! 👋🏼
 
--  💬  My name is Mengmei Tu, goes by Mei, pronounced like the month May
+-  💬  My name is Mengmei Tu, goes by <b>Mei</b>, pronounced like the month May
 - 👩🏻‍💻  I'm currently learning everything about web development
 - 👀  Would love to collaborate with creators
 - 🌟  2021 Goal: Get on board as a Full Stack Developer  
@@ -34,5 +36,3 @@
 
 
 [![Mengmei's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmeii&show_icons=true&theme=calm)](https://github.com/mmeii/github-readme-stats)
-
-![Made with Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-orange)
