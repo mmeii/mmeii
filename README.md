@@ -1,9 +1,8 @@
 
-<img align="right" src="https://media.giphy.com/media/ZdHsPsHUdWr882Uu85/giphy.gif" width="100px">
-
 ## Hi There! 👋🏼
 
 - 💬  My name is Mengmei Tu, goes by <b>Mei</b>, pronounced like the month May
+  <img align="right" src="https://media.giphy.com/media/ZdHsPsHUdWr882Uu85/giphy.gif" width="100px">
 - 👩🏻‍💻  I'm currently learning everything about web development
 - 👀  Would love to collaborate with creators
 - 🌟  2021 Goal: Get on board as a Full Stack Developer  
