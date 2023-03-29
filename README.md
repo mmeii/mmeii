@@ -1,6 +1,6 @@
 ## Hi There! 👋🏼
 
-- 💬 My name is Mengmei Tu, goes by <b>Mei</b>, pronounced like the month May
+- 💬 I'm <b>Mei</b>, pronounced like the month May 🌼
 
 ### Languages and Tools:
 
@@ -26,7 +26,7 @@
 
 ### Let's Connect!
 
-LinkedIn: <a href="https://www.linkedin.com/in/mengmei-tu/" target="_blank">mengmei-tu</a> | Website: <a href="https://iammei.com" target="_blank">IAMMEI | Portfolio</a> | Email: <a href="mailto:mmtu0290@gmail.com" target="_blank">mmtu0290@gmail.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/mengmei-tu/" target="_blank">mengmei-tu</a> | Website: <a href="https://iammei.com" target="_blank">IAMMEI | Portfolio</a>
 
 <br>
 
