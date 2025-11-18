@@ -1,36 +1,85 @@
-## Hi There! 👋🏼
+# Hey, I'm Mei 👋
 
-- 💬 I'm <b>Mei</b>, pronounced like the month May 🌼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6BCB77&width=435&lines=Full-stack+engineer+crafting+useful+UX;Cloud-native+builder+%26+automation+nerd;Let's+ship+impactful+products+together)](https://git.io/typing-svg)
 
-### Languages and Tools:
+Curious full-stack engineer blending delightful UX with resilient cloud-native backends. I love pairing TypeScript/React front-ends with Node, databases, and AWS services that keep features fast, secure, and observable.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />  
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+- 🔭 Building experiments with React + AWS Amplify to speed up prototype deployments
+- 🧪 Automating CI/CD pipelines with GitHub Actions & Jenkins so teams ship more confidently
+- 🌱 Leveling up in Terraform & infrastructure-as-code to keep environments reproducible
+- 🤖 Tinkering with lightweight AI/ML workflows to weave intelligence into everyday tools
+- 🤝 Open to collaborating on web apps that balance accessibility, data, and storytelling
 
-<br>
-<br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" align="right" alt="Animated dev at laptop" />
 
-### Let's Connect!
+---
 
-LinkedIn: <a href="https://www.linkedin.com/in/mengmei-tu/" target="_blank">mengmei-tu</a> | Website: <a href="https://iammei.com" target="_blank">IAMMEI | Portfolio</a>
+> Want deeper dives or live demos? Visit [iammei.com](https://iammei.com) for project write-ups, UI shots, and lessons learned.
 
-<br>
+---
 
-<div>
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=mmeii&show_icons=true&theme=calm" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmeii&layout=compact&theme=calm" />
+## What I'm Focused On
+
+- 📈 Translating product requirements into measurable engineering outcomes and dashboards
+- 🛰️ Designing API contracts that stay versioned, documented, and easy to test
+- 🧩 Championing UX accessibility checks (keyboard nav, color contrast, screen reader copy)
+- 🗺️ Mapping observability (logs, metrics, tracing) into every feature before launch
+- 🧠 Rapid-prototyping AI copilots that summarize, predict, or personalize UX in-context
+
+---
+
+## AI & ML Sandbox
+
+- 🤗 Deploying quick demos on [Hugging Face Spaces](https://huggingface.co/mmeii) to experiment with Transformers-powered UI helpers
+- 🔗 Connecting LangChain agents to existing REST/GraphQL APIs for smart support widgets
+- 🧮 Using Python notebooks + AWS Lambda for lightweight inference without heavy infra
+- 🧪 Documenting prompts, datasets, and evaluation notes in Notion so experiments stay reproducible
+
+---
+
+## Toolbox
+
+**Frontend**
+: React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Vite • Handlebars
+
+**Backend & Data**
+: Node.js • Express • REST APIs • MongoDB • MySQL • PostgreSQL • Sequelize
+
+**Cloud & DevOps**
+: AWS (Amplify, Lambda, S3, CloudFront) • Terraform • Docker • GitHub Actions • Jenkins • Netlify
+
+**Productivity**
+: VS Code • Git • GitHub Projects • Postman • Terminal
+
+---
+
+## Stats & Activity
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mmeii&show_icons=true&theme=calm&hide_border=true" alt="Mei's GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=mmeii&theme=calm&hide_border=true" alt="GitHub streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmeii&layout=compact&theme=calm&hide_border=true" alt="Top languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmeii&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+</div>
+
+---
+
+## Badges & Fun Extras
+
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-2563eb?style=flat-square)
+![Currently Learning](https://img.shields.io/badge/Learning-Terraform%20%7C%20IaC%20%26%20AI%2FML-f97316?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-ffae00?style=flat-square&logo=huggingface&logoColor=000)
+
+---
+
+## Let's Build Something
+
+If you're working on products that empower communities or modernize internal platforms, I'd love to chat.
+
+- 🌐 Portfolio: [iammei.com](https://iammei.com)
+- 💼 LinkedIn: [linkedin.com/in/mengmei-tu](https://www.linkedin.com/in/mengmei-tu/)
+
+> Prefer async time? Drop a note through my site or DM me on LinkedIn—I'll reply within a day.
