@@ -1,6 +1,6 @@
 # Hey, I'm Mei 👋
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6BCB77&width=520&lines=Full-stack+engineer+crafting+useful+UX;Cloud-native+builder+%26+automation+nerd;Let's+ship+impactful+products+together" alt="Animated typing headline" />
   </a>
