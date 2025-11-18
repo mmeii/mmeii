@@ -1,6 +1,10 @@
 # Hey, I'm Mei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6BCB77&width=435&lines=Full-stack+engineer+crafting+useful+UX;Cloud-native+builder+%26+automation+nerd;Let's+ship+impactful+products+together)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6BCB77&width=520&lines=Full-stack+engineer+crafting+useful+UX;Cloud-native+builder+%26+automation+nerd;Let's+ship+impactful+products+together" alt="Animated typing headline" />
+  </a>
+</p>
 
 Curious full-stack engineer blending delightful UX with resilient cloud-native backends. I love pairing TypeScript/React front-ends with Node, databases, and AWS services that keep features fast, secure, and observable.
 
@@ -10,7 +14,9 @@ Curious full-stack engineer blending delightful UX with resilient cloud-native b
 - 🤖 Tinkering with lightweight AI/ML workflows to weave intelligence into everyday tools
 - 🤝 Open to collaborating on web apps that balance accessibility, data, and storytelling
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" align="right" alt="Animated dev at laptop" />
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="Animated dev at laptop" />
+</p>
 
 ---
 
@@ -40,13 +46,13 @@ Curious full-stack engineer blending delightful UX with resilient cloud-native b
 ## Toolbox
 
 **Frontend**
-: React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Vite • Handlebars
+: React • TypeScript • JavaScript (ES6+) • GoLang • HTML5 • CSS3 • Bootstrap • Vite • Handlebars
 
 **Backend & Data**
 : Node.js • Express • REST APIs • MongoDB • MySQL • PostgreSQL • Sequelize
 
 **Cloud & DevOps**
-: AWS (Amplify, Lambda, S3, CloudFront) • Terraform • Docker • GitHub Actions • Jenkins • Netlify
+: AWS (Amplify, Lambda, S3, CloudFront, EVERYTHING) • Terraform • Docker • GitHub Actions • Jenkins
 
 **Productivity**
 : VS Code • Git • GitHub Projects • Postman • Terminal
